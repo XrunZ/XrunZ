@@ -24,7 +24,7 @@
 ## Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,php,js,html,css,c,cpp,bootstrap,mysql,sqlite,linux,ubuntu,nginx,apache,docker,git,github,bash" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,php,js,html,css,c,cpp,bootstrap,mysql,sqlite,linux,ubuntu,nginx,docker,git,github,bash" alt="Tech stack">
 </p>
 
 **Web & Frontend**
@@ -54,6 +54,7 @@
 ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-005571?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN-005571?style=flat-square)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
 ## GitHub Stats
 
