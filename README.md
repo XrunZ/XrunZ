@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Muhammad Bahruddin" width="100%">
+  <img src="banner.svg" alt="Muhammad Bahruddin" width="100%">
 </p>
 
 <p align="center">
