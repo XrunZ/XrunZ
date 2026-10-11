@@ -74,10 +74,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XrunZ&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies">
-</p>
-
-<p align="center">
   <img src="sec-connect.svg" alt="Connect With Me" width="100%">
 </p>
 
@@ -88,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XrunZ&label=Profile%20views&color=1e3a8a&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=XrunZ&label=Profile%20views&color=1e3a8a&style=for-the-badge&v=2" alt="Profile views">
 </p>
 
 <p align="center"><i>"Secure the Future"</i></p>
