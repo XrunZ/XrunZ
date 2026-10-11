@@ -12,16 +12,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Secure+the+Future;Cybersecurity+%7C+AI+%7C+Networking;Learning+by+doing" alt="Typing SVG">
 </p>
 
-## 🧑💻 About Me
+## About Me
 
-- 🎓 Undergraduate in **Internet Engineering Technology** at **PENS** (Electronic Engineering Polytechnic Institute of Surabaya), Indonesia
-- 🛡️ Passionate about **cybersecurity**, **network security**, **web exploitation**, and **ethical hacking**
-- 🚩 Active in **CTF** competitions and hands-on security labs
-- 🤖 Exploring **AI-assisted security** and automation
-- 🧠 Philosophy: *"Learning by doing"* (every vulnerability found, every network configured, every system hardened)
-- 📍 Based in Surabaya, East Java, Indonesia
+- Undergraduate in **Internet Engineering Technology** at **PENS** (Electronic Engineering Polytechnic Institute of Surabaya), Indonesia
+- Passionate about **cybersecurity**, **network security**, **web exploitation**, and **ethical hacking**
+- Active in **CTF** competitions and hands-on security labs
+- Exploring **AI-assisted security** and automation
+- Philosophy: *"Learning by doing"* (every vulnerability found, every network configured, every system hardened)
+- Based in Surabaya, East Java, Indonesia
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,php,js,html,css,c,cpp,bootstrap,mysql,sqlite,linux,ubuntu,nginx,apache,docker,git,github,bash" alt="Tech stack">
@@ -55,7 +55,7 @@
 ![VLAN](https://img.shields.io/badge/VLAN-005571?style=flat-square)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XrunZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
@@ -66,12 +66,12 @@
   <img src="https://streak-stats.demolab.com?user=XrunZ&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <a href="https://bahruddin.web.id/"><b>🌐 bahruddin.web.id</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-bahruddin/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/mhmd.bhrdn"><b>📸 Instagram</b></a>
+  <a href="https://bahruddin.web.id/"><b>bahruddin.web.id</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-bahruddin/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/mhmd.bhrdn"><b>Instagram</b></a>
 </p>
 
 <p align="center"><i>"Secure the Future"</i></p>
