@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=200&section=header&text=Muhammad%20Bahruddin&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20AI%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="header">
+  <img src="header.svg" alt="Muhammad Bahruddin" width="100%">
 </p>
 
 <p align="center">
@@ -77,5 +77,5 @@
 <p align="center"><i>"Secure the Future"</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=120&section=footer" alt="footer">
+  <img src="footer.svg" alt="footer" width="100%">
 </p>
