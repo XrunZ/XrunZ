@@ -12,7 +12,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Secure+the+Future;Cybersecurity+%7C+AI+%7C+Networking;Learning+by+doing" alt="Typing SVG">
 </p>
 
-## About Me
+<p align="center">
+  <img src="sec-about.svg" alt="About Me" width="100%">
+</p>
 
 - Undergraduate in **Internet Engineering Technology** at **PENS** (Electronic Engineering Polytechnic Institute of Surabaya), Indonesia
 - Passionate about **cybersecurity**, **network security**, **web exploitation**, and **ethical hacking**
@@ -21,7 +23,9 @@
 - Philosophy: *"Learning by doing"* (every vulnerability found, every network configured, every system hardened)
 - Based in Surabaya, East Java, Indonesia
 
-## Tech & Tools
+<p align="center">
+  <img src="sec-tech.svg" alt="Tech Stack" width="100%">
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,php,js,html,css,c,cpp,bootstrap,mysql,sqlite,linux,ubuntu,nginx,docker,git,github,bash" alt="Tech stack">
@@ -56,7 +60,9 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
-## GitHub Stats
+<p align="center">
+  <img src="sec-stats.svg" alt="GitHub Stats" width="100%">
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XrunZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
@@ -67,12 +73,22 @@
   <img src="https://streak-stats.demolab.com?user=XrunZ&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
-## Connect With Me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XrunZ&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies">
+</p>
+
+<p align="center">
+  <img src="sec-connect.svg" alt="Connect With Me" width="100%">
+</p>
 
 <p align="center">
   <a href="https://bahruddin.web.id/"><b>bahruddin.web.id</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-bahruddin/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://instagram.com/mhmd.bhrdn"><b>Instagram</b></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XrunZ&label=Profile%20views&color=1e3a8a&style=for-the-badge" alt="Profile views">
 </p>
 
 <p align="center"><i>"Secure the Future"</i></p>
