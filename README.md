@@ -3,65 +3,57 @@
 </p>
 
 <p align="center">
-  <a href="https://bahruddin.web.id/"><img src="https://img.shields.io/badge/Website-bahruddin.web.id-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/muhammad-bahruddin/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Bahruddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/mhmd.bhrdn"><img src="https://img.shields.io/badge/Instagram-mhmd.bhrdn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://bahruddin.web.id/"><img src="https://img.shields.io/badge/Website-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/muhammad-bahruddin/"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/mhmd.bhrdn"><img src="https://img.shields.io/badge/Instagram-1e3a8a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Secure+the+Future;Cybersecurity+%7C+AI+%7C+Networking;Learning+by+doing" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&color=3B82F6&lines=Secure+the+Future;Cybersecurity+%7C+AI+%7C+Networking;Learning+by+doing" alt="Typing SVG">
 </p>
 
+<h2 align="center">Technologies</h2>
+
 <p align="center">
-  <img src="sec-about.svg" alt="About Me" width="100%">
+  <img src="https://img.shields.io/badge/Linux-1e3a8a?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali%20Linux-1e3a8a?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-1e3a8a?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Nginx-1e3a8a?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Apache-1e3a8a?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
+  <img src="https://img.shields.io/badge/Docker-1e3a8a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-1e3a8a?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-1e3a8a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-1e3a8a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1e3a8a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/C-1e3a8a?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-1e3a8a?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Bootstrap-1e3a8a?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Next.js-1e3a8a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-1e3a8a?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-1e3a8a?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MySQL-1e3a8a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MariaDB-1e3a8a?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/SQLite-1e3a8a?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/SQL%20Server-1e3a8a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Bash-1e3a8a?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Nmap-1e3a8a?style=for-the-badge" alt="Nmap">
+  <img src="https://img.shields.io/badge/Burp%20Suite-1e3a8a?style=for-the-badge" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wireshark-1e3a8a?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Hydra-1e3a8a?style=for-the-badge" alt="Hydra">
+  <img src="https://img.shields.io/badge/Gobuster-1e3a8a?style=for-the-badge" alt="Gobuster">
+  <img src="https://img.shields.io/badge/FFUF-1e3a8a?style=for-the-badge" alt="FFUF">
+  <img src="https://img.shields.io/badge/WPScan-1e3a8a?style=for-the-badge" alt="WPScan">
+  <img src="https://img.shields.io/badge/Cisco-1e3a8a?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
 </p>
 
-- Undergraduate in **Internet Engineering Technology** at **PENS** (Electronic Engineering Polytechnic Institute of Surabaya), Indonesia
-- Passionate about **cybersecurity**, **network security**, **web exploitation**, and **ethical hacking**
-- Active in **CTF** competitions and hands-on security labs
-- Exploring **AI-assisted security** and automation
-- Philosophy: *"Learning by doing"* (every vulnerability found, every network configured, every system hardened)
-- Based in Surabaya, East Java, Indonesia
+<h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img src="sec-tech.svg" alt="Tech Stack" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,php,js,html,css,c,cpp,bootstrap,mysql,sqlite,linux,ubuntu,nginx,docker,git,github,bash" alt="Tech stack">
-</p>
-
-**Web & Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript%205-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%203-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![lucide-react](https://img.shields.io/badge/lucide--react-F56565?style=flat-square&logo=lucide&logoColor=white)
-
-**Security & Pentesting**
-
-![Nmap](https://img.shields.io/badge/Nmap-4B275F?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-111111?style=flat-square)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-2C2C2C?style=flat-square)
-![Gobuster](https://img.shields.io/badge/Gobuster-6A1B9A?style=flat-square)
-![FFUF](https://img.shields.io/badge/FFUF-8E24AA?style=flat-square)
-![WPScan](https://img.shields.io/badge/WPScan-21759B?style=flat-square)
-![Dirsearch](https://img.shields.io/badge/Dirsearch-333333?style=flat-square)
-
-**Networking & Systems**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square)
-![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-005571?style=flat-square)
-![VLAN](https://img.shields.io/badge/VLAN-005571?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-
-<p align="center">
-  <img src="sec-stats.svg" alt="GitHub Stats" width="100%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XrunZ&theme=tokyonight" alt="Profile details">
 </p>
 
 <p align="center">
@@ -73,14 +65,25 @@
   <img src="https://streak-stats.demolab.com?user=XrunZ&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
-<p align="center">
-  <img src="sec-connect.svg" alt="Connect With Me" width="100%">
-</p>
+<h2 align="center">About Me</h2>
+
+<table>
+  <tr>
+    <td width="220" align="center" valign="top">
+      <img src="https://github.com/XrunZ.png" width="190" alt="Muhammad Bahruddin">
+    </td>
+    <td valign="top">
+      Hello! My name is <b>Muhammad Bahruddin</b>. I am an Internet Engineering Technology student at <b>PENS</b> (Electronic Engineering Polytechnic Institute of Surabaya), Indonesia. I am passionate about <b>cybersecurity</b>, <b>network security</b>, and <b>web exploitation</b>, and I enjoy learning through CTF competitions and hands-on security labs. Right now I am sharpening my skills in penetration testing, Linux administration, and full-stack web development, with a growing interest in AI-assisted security.
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Goals</h2>
 
 <p align="center">
-  <a href="https://bahruddin.web.id/"><b>bahruddin.web.id</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-bahruddin/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/mhmd.bhrdn"><b>Instagram</b></a>
+  My goal is to grow into a professional cybersecurity engineer and help build secure, resilient systems.<br>
+  I am working toward bug bounty hunting, red teaming, security architecture, and Zero Trust.<br>
+  I believe in learning by doing: every vulnerability found, every network configured, and every system hardened adds to my expertise.
 </p>
 
 <p align="center">
